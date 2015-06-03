@@ -1,0 +1,8 @@
+D:\用户\Desktop\Dr7\dr7\dr7\bin\Release\dr7.exe.config
+D:\用户\Desktop\Dr7\dr7\dr7\bin\Release\dr7.exe
+D:\用户\Desktop\Dr7\dr7\dr7\bin\Release\dr7.pdb
+D:\用户\Desktop\Dr7\dr7\dr7\obj\Release\dr7.Form1.resources
+D:\用户\Desktop\Dr7\dr7\dr7\obj\Release\dr7.Properties.Resources.resources
+D:\用户\Desktop\Dr7\dr7\dr7\obj\Release\dr7.csproj.GenerateResource.Cache
+D:\用户\Desktop\Dr7\dr7\dr7\obj\Release\dr7.exe
+D:\用户\Desktop\Dr7\dr7\dr7\obj\Release\dr7.pdb
