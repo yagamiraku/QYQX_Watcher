@@ -38,9 +38,17 @@ namespace dr7
         }
         static string GetWebPageResponse(string uriArg)
         {
-            Stream responseStream = WebRequest.Create(uriArg).GetResponse().GetResponseStream();
-            StreamReader reader = new StreamReader(responseStream);
-            return reader.ReadToEnd();
+            try
+            {
+                Stream responseStream = WebRequest.Create(uriArg).GetResponse().GetResponseStream();
+                StreamReader reader = new StreamReader(responseStream);
+                return reader.ReadToEnd();
+            }
+            catch (Exception e)
+            {
+                return "";
+            }
+
         }
 
         private void Form1_SizeChanged(object sender, EventArgs e)
